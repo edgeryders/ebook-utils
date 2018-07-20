@@ -25,3 +25,7 @@
   If there is any errors while fetching the content from the url, you will be promted to use method 1 or 2 respectively.
 
   Make sure you use filter feature to remove duplication of items.
+
+
+
+Found bugs or want to add more features? feel free to open issues or pull request here. :-)
