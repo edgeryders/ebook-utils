@@ -1,8 +1,9 @@
 <?php
 
-/*
-@edgeryders.eu
-@this file extract the specific content from the given url.
+/**
+ * A script that extracts metadata from Project Gutenberg works specified in content-input.txt.
+ * 
+ * @author anuzement (Github ID)
 */
 
 
@@ -21,6 +22,7 @@ echo '<!DOCTYPE html>
 }
 </style
 <body>';
+
 $action = $_GET['action'];
 
 switch ($action) {
