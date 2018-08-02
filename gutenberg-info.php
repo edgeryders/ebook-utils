@@ -11,17 +11,17 @@ error_reporting(0);
 
 echo '<!DOCTYPE html>
 <html>
-<head>
+    <head>
 	<title>Extractor</title>
-</head>
 
-<style>
-#error {
+    <style>
+        #error {
 	color: red;
 	font-size: 20px;
-}
-</style
-<body>';
+	}
+    </style
+    </head>
+    <body>';
 
 $action = $_GET['action'];
 
